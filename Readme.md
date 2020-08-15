@@ -1,4 +1,4 @@
-A IP Board application payment integration with [Rex Digital Shop](https://shop.rexdigital.group).
+An IP Board application payment integration with [Rex Digital Shop](https://shop.rexdigital.group).
 
 # Video Tutorial
 See the setup process in a short video:
