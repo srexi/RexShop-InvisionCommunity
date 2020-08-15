@@ -1,5 +1,9 @@
 A IP Board application payment integration with [Rex Digital Shop](https://shop.rexdigital.group).
 
+# Video Tutorial
+See the setup process in a short video:
+- Coming Soon..
+
 # Installation
 ## Install the application
 - In your IP Board admin panel, in the category Site Features click on Applications.
@@ -19,7 +23,3 @@ A IP Board application payment integration with [Rex Digital Shop](https://shop.
 - Click on the Developer tab.
 
 That's it you're ready to go!
-
-# Video Tutorial
-See the setup process in a short video:
-- Coming Soon..
