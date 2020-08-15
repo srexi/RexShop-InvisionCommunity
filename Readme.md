@@ -15,9 +15,9 @@ See the setup process in a short video:
 - Click on Payment Methods.
 - Click on the Create New button.
 - Select Rex Digital Shop and click Save.
-- Supply your Api Key and Secret Key
+- Supply your Api Key and Secret
 
-## How to find your Api - & Secret Key on Rex Digital Shop
+## How to find your Api Key & Secret on Rex Digital Shop
 - First navigate to the site: [Rex Digital Shop](https://shop.rexdigital.group/merchant)
 - Select your store and then click on Store Settings (bottom left).
 - Click on the Developer tab.
