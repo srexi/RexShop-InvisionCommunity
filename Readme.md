@@ -21,5 +21,6 @@ See the setup process in a short video:
 - First navigate to the site: [Rex Digital Shop](https://shop.rexdigital.group/merchant)
 - Select your store and then click on Store Settings (bottom left).
 - Click on the Developer tab.
+- While you're here also set your webhook url to the url of your forum and "applications/rexdigitalshop/interface/gateway.php"
 
 That's it you're ready to go!
